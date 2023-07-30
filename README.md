@@ -17,4 +17,4 @@ https://www.kaggle.com/datasets/benroshan/ecommerce-data
   * hotel_bookings.csv: contains data set used to create visualizations <br />
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 
-Codecademy Course: https://www.codecademy.com/enrolled/courses/bi-dashboards-with-power-bi
+Codecademy Course Used: https://www.codecademy.com/enrolled/courses/bi-dashboards-with-power-bi

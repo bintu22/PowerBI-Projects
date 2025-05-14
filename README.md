@@ -4,7 +4,7 @@ Created a few projects to practice the PowerBI skills I've been building!
 
 ●	 Built Profitability Analysis Dashboard containing Dynamic Charts and Calculated Functions using an E-Commerce Dataset for Head of Finance of a fictitious company, assessing customer, product line, and regional data to provide strategic insights to improve profit.
 
- * Commerce Data_Profitability_Analysis.pbix: dasboard <br />
+ * Commerce Data_Profitability_Analysis.pbix: dashboard <br />
  * E-Commerce Dataset.zip: contains data set used to create dashboard
 https://www.kaggle.com/datasets/benroshan/ecommerce-data
 
